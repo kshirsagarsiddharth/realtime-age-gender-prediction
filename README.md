@@ -7,3 +7,4 @@
 ## Deploy the model
 1. To deploy the model I have used flask and opencv to get the live video stream.
 2. To detect the face I have used haar cascades to detect face.
+![demo_image2](https://user-images.githubusercontent.com/48590801/163750897-1545150e-6f98-47da-b166-a522dc012412.png)
